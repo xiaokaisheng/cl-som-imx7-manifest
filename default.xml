@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="compulab"
+	    fetch="https://github.com/compulab-yokneam" />
+    <project remote="compulab" revision="master"
+	    path="sources/meta-bsp-imx7" name="meta-bsp-imx7" />
+    <include name="imx-4.14.98-2.0.0_ga.xml" />
+</manifest>
+
